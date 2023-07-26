@@ -1,0 +1,71 @@
+#header {
+    background-color:lightblue;
+    text-align:center;
+    padding:0.01px;
+    border: solid lightcoral;
+}
+#section {
+    background-color:orange;
+    text-align:center;
+    padding:5px;
+    border: solid lightcoral;
+}
+#gallery
+{
+    padding-bottom: 10px;
+    background-color: aquamarine;
+    border: solid lightcoral;
+}
+#about
+{
+    background-color: aliceblue;
+    border: solid lightcoral;
+}
+#contact
+{
+    background-color: lightgoldenrodyellow;
+    border: solid lightcoral;
+    text-align: center;
+}
+#footer 
+{
+    background-color:#3333ff;
+    text-align:center;
+    padding:5px;
+    border: solid lightcoral;	 	 
+}
+
+h1,h2{
+    color: blue;
+    text-align: center;
+}
+
+a:link, a:visited {
+    background-color:orange;
+    padding: 14px 25px;
+    text-align: center;	
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: palegreen;
+}
+
+.btn-group1 button {
+    background-color: orange; /* orange background */
+    color: white; /* White text */
+    padding: 15px 14px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    width: 12%; /* Set a width if needed */
+    /*display: block; /* Make the buttons appear below each other */
+}
+
+
+/* Add a background color on hover */
+.btn-group1 button:hover {
+    background-color: #330080;
+}
+
+
+
